@@ -37,5 +37,5 @@
 -   Documente suas conclusões e qualquer insight obtido a partir das previsões.
 
 ## 🤔 Dúvidas?
-Esperamos que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em abrir uma 
+Espero que esta experiência tenha sido enriquecedora e que você tenha aprendido mais sobre Machine Learning aplicado a problemas reais. Se tiver alguma dúvida, não hesite em  
 Entrar em COntato 
